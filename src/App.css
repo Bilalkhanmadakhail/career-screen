@@ -13,21 +13,7 @@
   }
 }
 
-.bg{
-  background-image: url(./assets/bg.png);
-  /* background-size: contain; */
-  background-repeat: no-repeat;
-  width: auto;
 
-  /* width: 1000px; */
-}
-.bgbrown{
-  background-image: url(./assets/bgbrown.png);
-  /* background-size: contain; */
-  background-repeat: no-repeat;
-  width: auto;
-  /* width: 1000px; */
-}
 
 .App-header {
   background-color: #282c34;
